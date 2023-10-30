@@ -67,3 +67,9 @@ body {
 audio::-webkit-media-controls-panel {
     background-color: rgb(118, 150, 118);
   }
+
+  .no-result{
+    text-align: center;
+    color: red;
+    visibility: hidden;
+  }
